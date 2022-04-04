@@ -1,0 +1,6 @@
+ds=input("danh sach")
+print(ds)
+ds=ds.split()
+print(ds)
+ds.reverse()
+print(' '.join(ds))
